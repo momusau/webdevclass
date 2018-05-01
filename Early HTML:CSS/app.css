@@ -1,0 +1,26 @@
+/*borders need to have color, width, and style*/
+
+h1 {
+	color: #000000;
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: 2px solid purple;
+}
+
+li {
+	color:green;
+}
+
+h4 {
+	background: #000000;
+	color:purple;
+}
+
+body {
+	/*background: url(https://www.planwallpaper.com/static/images/recycled_texture_background_by_sandeep_m-d6aeau9_PZ9chud.jpg);
+	background-repeat: no-repeat;*/
+	background: pink;
+
+}
